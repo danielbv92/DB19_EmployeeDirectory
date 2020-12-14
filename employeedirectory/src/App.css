@@ -4,9 +4,6 @@
     border-radius: 1em;
 }
 
-.card {
-    background-color: ;
-}
 .employeetext,
 .department,
 .emailtext,
@@ -16,4 +13,3 @@
     color: white;
     font-size: larger;
 }
-
