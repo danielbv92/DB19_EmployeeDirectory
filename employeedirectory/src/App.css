@@ -1,0 +1,19 @@
+
+.container {
+    background-color: darkslategrey;
+    border-radius: 1em;
+}
+
+.card {
+    background-color: ;
+}
+.employeetext,
+.department,
+.emailtext,
+.phonedigits,
+.footer
+ {
+    color: white;
+    font-size: larger;
+}
+

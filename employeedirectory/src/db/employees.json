@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "https://randomuser.me/api/portraits/women/92.jpg",
+      "name": "Sally Sue",
+      "department": "Sales",
+      "email": "worstname@email.com",
+      "phone": "555-321-2345"
+    },
+    {
+      "id": 2,
+      "image": "https://randomuser.me/api/portraits/men/92.jpg",
+      "name": "Mathew Perry",
+      "department": "Engineering",
+      "email": "medeaxmas@email.com",
+      "phone": "555-012-3456"
+    },
+    {
+      "id": 3,
+      "image": "https://randomuser.me/api/portraits/women/76.jpg",
+      "name": "Amamda Bines",
+      "department": "Design",
+      "email": "amandapanda@email.com",
+      "phone": "555-456-7890"
+    },
+    {
+      "id": 4,
+      "image": "https://randomuser.me/api/portraits/men/24.jpg",
+      "name": "Joe Pesci",
+      "department": "Logistics",
+      "email": "joepesh@email.com",
+      "phone": "555-654-9876"
+    },
+    {
+      "id": 5,
+      "image": "https://randomuser.me/api/portraits/women/43.jpg",
+      "name": "Suzie Q",
+      "department": "Marketing",
+      "email": "ohsuz@email.com",
+      "phone": "555-987-9876"
+    },
+    {
+      "id": 6,
+      "image": "https://randomuser.me/api/portraits/men/23.jpg",
+      "name": "Ronald McDonald",
+      "department": "Management",
+      "email": "diabetes@email.com",
+      "phone": "555-435-6748"
+    }
+    
+  ]
